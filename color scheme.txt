@@ -1,0 +1,7 @@
+bg #343944  rgb(52, 57, 68)
+bhagva1 #ff9933
+bhagva2 #ffb366
+bhagva3 #ffc080 //use this
+primary text #C1C8D1
+secondary text #5294E2 
+button #b3bac5
